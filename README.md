@@ -20,6 +20,10 @@ It uses the **COCO dataset** classes for object detection like person, car, bicy
 ```
 
 ---
+Models must be downloaded manually. Only the folder names and file placeholders are included.
+✅ frozen_inference_graph.pb
+✅ ssd_mobilenet_v2_coco_2018_03_29.pbtxt
+---
 
 ## 🚀 How It Works
 
