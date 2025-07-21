@@ -22,11 +22,6 @@ coco_class_labels.txt
 object_detection.ipynb
 
 
-## 📸 Output Example
-Bounding boxes will be drawn around detected objects with their names.
-
-
-
 
 
 
